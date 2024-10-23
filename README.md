@@ -1,12 +1,19 @@
 # python3d
 A listing of 3d packages with Python APIs
 
+<img src= "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*bphdlNAWoUhS4fDuPF6zbw.png" width = "500" > 
+
 ## Rhino
 
 ### Rhino Compute REST API (Paid Service)
 * [Rhino compute python - Google Search](https://www.google.com/search?q=Rhino+compute+python&rlz=1C1GCEB_enGB1045GB1045&oq=Rhino+compute+python&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDY4NTdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8)
   * [Rhino - Calling Compute with Python](https://developer.rhino3d.com/guides/compute/compute-python-getting-started/)
   * [rhino-developer-samples/compute/py/SampleGhBasic/lines.py at 8 · mcneel/rhino-developer-samples](https://github.com/mcneel/rhino-developer-samples/blob/8/compute/py/SampleGhBasic/lines.py)
+  * [Rhino - Compute Guides](https://developer.rhino3d.com/guides/compute/)
+  * [Rhino - Calling Compute with Python](https://developer.rhino3d.com/guides/compute/compute-python-getting-started/)
+  * [Getting Started with compute.rhino3d for Python - YouTube](https://www.youtube.com/watch?v=XCkRXAEJMhg)
+  * [Intersection — compute_rhino3d 0.14.0 documentation](https://compute-rhino3d.readthedocs.io/en/latest/Intersection.html)
+
 ### RhinoCommon via Python
 * [access Rhinocommon via Python - Google Search](https://www.google.com/search?q=access+Rhinocommon+via+Python&rlz=1C1GCEB_enGB1045GB1045&oq=access+Rhinocommon+via+Python&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDYxMzhqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8)
   * [Rhino - Using RhinoCommon from Python](https://developer.rhino3d.com/guides/rhinopython/using-rhinocommon-from-python/)
@@ -20,12 +27,11 @@ A listing of 3d packages with Python APIs
   * [Rhino - rhino3dm Libraries](https://www.rhino3d.com/features/developer/rhino3dm/)
 
 ### Rhino 8 Python
+* [Rhino 8 Feature: ScriptEditor (CPython, CSharp) - Serengeti (Rhino WIP) - McNeel Forum](https://discourse.mcneel.com/t/rhino-8-feature-scripteditor-cpython-csharp/128353/89)
+* [Rhino 8 WIP Python Not Installing - 2021-11-16 - YouTube](https://www.youtube.com/watch?v=heQiC1WmqKo)
 * [rhino 8 python access - Google Search](https://www.google.com/search?q=rhino+8+python+access&rlz=1C1GCEB_enGB1045GB1045&oq=rhino+8+python+access&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDMyOTZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8)
   * [How to install libraries like SciPy into Rhino 8 beta script editor? - Grasshopper - McNeel Forum](https://discourse.mcneel.com/t/how-to-install-libraries-like-scipy-into-rhino-8-beta-script-editor/167130/21)
-  * [Rhino - Compute Guides](https://developer.rhino3d.com/guides/compute/)
-  * [Rhino - Calling Compute with Python](https://developer.rhino3d.com/guides/compute/compute-python-getting-started/)
-  * [Getting Started with compute.rhino3d for Python - YouTube](https://www.youtube.com/watch?v=XCkRXAEJMhg)
-  * [Intersection — compute_rhino3d 0.14.0 documentation](https://compute-rhino3d.readthedocs.io/en/latest/Intersection.html)
+ 
 ### Rhino & Numpy
 * [read serialized data inside Numpy - Google Search](https://www.google.com/search?q=read+serialized+data+inside+Numpy&sca_esv=969a37d7d8df40c7&rlz=1C1GCEB_enGB1045GB1045&sxsrf=ADLYWIK8LiA4iZhax7II36N-yjCqckUxqA%3A1729543036275&ei=fLsWZ9-5ENCChbIPzs_fiQw&ved=0ahUKEwjf57PyqaCJAxVQQUEAHc7nN8EQ4dUDCA8&uact=5&oq=read+serialized+data+inside+Numpy&gs_lp=Egxnd3Mtd2l6LXNlcnAiIXJlYWQgc2VyaWFsaXplZCBkYXRhIGluc2lkZSBOdW1weTIHECEYoAEYCjIHECEYoAEYCjIHECEYoAEYCkj0eVDECFjXeHANeAGQAQCYAacBoAGHHaoBBDM2Lji4AQPIAQD4AQGYAjmgAvIfqAIUwgIKEAAYsAMY1gQYR8ICBxAjGCcY6gLCAhQQABiABBiRAhi0AhiKBRjqAtgBAcICFBAAGIAEGOMEGLQCGOkEGOoC2AEBwgIEECMYJ8ICChAAGIAEGEMYigXCAgsQABiABBiRAhiKBcICDhAuGIAEGMcBGI4FGK8BwgIREC4YgAQYsQMY0QMYgwEYxwHCAg4QLhiABBixAxiDARiKBcICCxAAGIAEGLEDGIMBwgIKECMYgAQYJxiKBcICFhAuGIAEGLEDGNEDGEMYgwEYxwEYigXCAggQLhiABBixA8ICEBAuGIAEGNEDGEMYxwEYigXCAgUQABiABMICCxAuGIAEGLEDGIMBwgIOEC4YgAQYsQMYgwEY1ALCAgoQABiABBgUGIcCwgIQEC4YgAQYsQMYQxiDARiKBcICDRAuGIAEGEMY1AIYigXCAhAQLhiABBjHARgKGI4FGK8BwgIQEAAYgAQYsQMYQxiDARiKBcICChAAGIAEGLEDGArCAgoQLhiABBixAxgKwgIIEAAYgAQYsQPCAgsQLhiABBjHARivAcICExAuGIAEGLEDGMcBGAoYjgUYrwHCAhAQLhiABBixAxjRAxjHARgKwgINEAAYgAQYsQMYgwEYCsICHxAuGIAEGMcBGAoYjgUYrwEYlwUY3AQY3gQY4ATYAQHCAgcQABiABBgNwgIIEAAYFhgKGB7CAgsQABiABBiGAxiKBcICCBAAGIAEGKIEwgIGEAAYFhgewgIIEAAYFhgeGA_CAggQABiiBBiJBcICBRAhGKABwgIEECEYFZgDFYgGAZAGCLoGBggBEAEYAZIHBTQ1LjEyoAeFuAI&sclient=gws-wiz-serp)
   * [lebedov/msgpack-numpy: Serialize numpy arrays using msgpack](https://github.com/lebedov/msgpack-numpy)
@@ -105,6 +111,13 @@ A listing of 3d packages with Python APIs
   * [PyAutoCAD ironpython? - Google Search](https://www.google.com/search?q=PyAutoCAD+ironpython%3F&rlz=1C1GCEB_enGB1045GB1045&oq=PyAutoCAD+ironpython%3F&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDMyNjFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8)
   * [Running Python Code in an external IDE to interact with Civil3D - Civil3D - Dynamo](https://forum.dynamobim.com/t/running-python-code-in-an-external-ide-to-interact-with-civil3d/85432)
 
+* [Automating Autocad using Python : r/learnpython](https://www.reddit.com/r/learnpython/comments/mqvgdx/automating_autocad_using_python/)
+* [pyautocad · PyPI](https://pypi.org/project/pyautocad/)
+### Autocad Win32
+* [Python AutoCAD integration in pywin32 - SCDA](https://www.supplychaindataanalytics.com/python-integration-with-autocad-using-pywin32-win32com/)
+
+## FreeCAD
+* [FreeCAD API - FreeCAD Documentation](https://wiki.freecad.org/FreeCAD_API)
 
 ## Fusion
 
@@ -115,6 +128,13 @@ A listing of 3d packages with Python APIs
 * [fusion 360 api - Google Search](https://www.google.com/search?q=fusion+360+api&rlz=1C1GCEB_enGB1045GB1045&oq=fusion+360+api&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg80gEINDA0NWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8)
   * [Fusion Help | Get Circle and Arc Data from Edge API Sample | Autodesk](https://help.autodesk.com/view/fusion360/ENU/?guid=GUID-2aae1b64-fd3c-11e4-a1cb-f8b156d7cd97)
 
+## Revit
+* [revit loves python - Google Search](https://www.google.com/search?q=revit+loves+python&sca_esv=dcbcef83952848e4&rlz=1C1GCEB_enGB1045GB1045&sxsrf=ADLYWIJpOttrTEF524XZR9oYNvVjgwjT-Q:1729712734080&ei=XlIZZ4TCBLS_hbIPteWcsAE&start=10&sa=N&sstk=AagrsugI6wJSllI53DVy8QGpsPo5LTTsaLHH91jyZ7Jf61IiEK6X7APhDmcbPme3AryB5aFR9Y-oVLo_mQ_f8kcnTv8tjROJeebqKA&ved=2ahUKEwiE6c-IoqWJAxW0X0EAHbUyBxYQ8NMDegQIBhAW&biw=1537&bih=830&dpr=2.25)
+ * [Deploying and Managing Revit Add-ins with Python | LinkedIn](https://www.linkedin.com/pulse/deploying-managing-revit-add-ins-python-callum-sykes/)
+ * [Python and Revit | The Dynamo Primer](https://primer.dynamobim.org/10_Custom-Nodes/10-5_Python-Revit.html)
+ * [Python for Revit: Revit document as a database - YouTube (Session1)](https://www.youtube.com/watch?v=giVBwptFhpQ)
+ * [Python for Revit: Basics of collecting data from Revit database - YouTube (Session2)](https://www.youtube.com/watch?v=PfCn7OrY_-A)
+ * [add in - How to create Revit Add-In DLL from Python - Stack Overflow](https://stackoverflow.com/questions/21151299/how-to-create-revit-add-in-dll-from-python)
 
 ## Onshape
 
