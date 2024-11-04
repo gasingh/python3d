@@ -116,6 +116,41 @@ A listing of 3d packages with Python APIs
 ### Autocad Win32
 * [Python AutoCAD integration in pywin32 - SCDA](https://www.supplychaindataanalytics.com/python-integration-with-autocad-using-pywin32-win32com/)
 
+### Autocad Websockets
+* [autocad lisp book - Google Search](https://www.google.com/search?sca_esv=a9b95fc3d4d04a29&sxsrf=ADLYWIKICPIWPJIe4dBT-JUkjax9_bJpnw:1730649990287&q=autocad+lisp+book&udm=2&fbs=AEQNm0BJU8HQC3fzNpLzBMuBiMvVRr8BSz33Xp3ghdPGS7xtzyplW7awl44U7qa4wdfIeWdmhmEJwg3NL2dkLUZ6n337klbeDPl-oO0-3V68D4g9ZV10sPimyFUJmh0Xs1yCFjOg4DUm_BVYntI5vNVPa5d5TfWQdvAMUM32FVMB6F_GKIWY8OeuLaVEki-1u-gXSleN8q9SbbtGJ__k4zsUMzDWmYmcBQ&sa=X&ved=2ahUKEwi9-prPxcCJAxWoTEEAHUOmNdAQtKgLegQIEhAB&biw=1383&bih=729&dpr=2.5#vhid=evR_aGLlb30JBM&vssid=mosaic)
+   * [20 Best Lisp Books of All Time - BookAuthority](https://bookauthority.org/books/best-lisp-books)
+* [autocad similar software supporting lisp - Google Search](https://www.google.com/search?q=autocad+similar+software+supporting+lisp&oq=autocad+similar+software+supporting+lisp&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDY4NDRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8)
+* [visual studio autolisp in autocad in 7 days - Google Search](https://www.google.com/search?sca_esv=a9b95fc3d4d04a29&sxsrf=ADLYWIIFFmGE-9Ug8jQML9UQCtr1e-CUgA:1730650184240&q=visual+studio+autolisp+in+autocad+in+7+days&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dSQGMtppJpc5R-6ZDUVFSJ6eR4HiLo6vZUlOqs1qPF62Fsw9uoOUBn18SNji9ZF-ap11in9OyA1dvMCVRDXOi__5uOyCYL-qJ0nGT6VGAPM5te-W27NWA2rDiokyJuaMs1Mpm99Fb6t4I3GIgvQiL8DU3_eg&udm=2&sa=X&ved=2ahUKEwj15tirxsCJAxV9XEEAHa6cPGYQxKsJegQIChAB&ictx=0&biw=1383&bih=729&dpr=2.5#vhid=QH2TOuc45gDTfM&vssid=mosaic)
+  * [Visual LISP Editor opens up a different application in AutoCAD](https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/Visual-LISP-Editor-opens-up-a-different-application-in-AutoCAD.html)
+  * [AutoLisp files » Project Factory](https://www.fabricadoprojeto.com.br/en/category/softwares-cad/programacao-cad/autolisp/)
+* [autocad programming book architectrue - Google Search](https://www.google.com/search?q=autocad+programming+book+architectrue&sca_esv=a9b95fc3d4d04a29&udm=2&biw=1383&bih=729&sxsrf=ADLYWIKat3P9EW1TKFRk59yVHZBwg0Dv2Q%3A1730650408413&ei=KKEnZ_D2GMCyhbIP0uCH6QQ&ved=0ahUKEwjwqsuWx8CJAxVAWUEAHVLwIU0Q4dUDCBA&uact=5&oq=autocad+programming+book+architectrue&gs_lp=EgNpbWciJWF1dG9jYWQgcHJvZ3JhbW1pbmcgYm9vayBhcmNoaXRlY3RydWVIwClQiwJYhSdwAXgAkAEAmAFuoAG9CKoBBDEyLjG4AQPIAQD4AQGYAgKgAnXCAgQQABgemAMAiAYBkgcDMS4xoAfsBA&sclient=img)
+  * [Start Programming in .NET for AutoCAD: Huizinga, Anton: 9798833902585: Books - Amazon.ca](https://www.amazon.ca/Start-Programming-AutoCAD-Anton-Huizinga/dp/B0B36S1RCJ)
+  * [Autocad Courses & Training | Reed.co.uk](https://www.reed.co.uk/courses/autocad)
+
+* [connect vscode with autocad - Google Search](https://www.google.com/search?q=connect+vscode+with+autocad&oq=connect+vscode+with+autocad&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDg2MzhqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8)
+  * [AutoCAD LT 2024 Help | Getting Started with Visual Studio Code (AutoLISP/VS Code) | Autodesk](https://help.autodesk.com/view/ACDLT/2024/ENU/?guid=GUID-7BE00235-5D40-4789-9E34-D57685E83875)
+  * [AutoCAD Automation!! using Python and ChatGPT - YouTube](https://www.youtube.com/watch?v=TdZ6XCPt1Do)
+  * [Choosing and Setting Up The Best Text Editor for AutoLISP Programming - YouTube](https://www.youtube.com/watch?v=mjP4PDqAZQk)
+* [python access for autocad - Google Search](https://www.google.com/search?q=python+access+for+autocad&oq=python+access+for+autocad&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDQwMjdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8)
+  * [Drawing with Code: Using PyAutoCAD to Automate AutoCAD in Python | by Okan Yenigün | Python in Plain English](https://python.plainenglish.io/drawing-with-code-using-pyautocad-to-automate-autocad-in-python-f15ee72ace7f)
+  * [Solved: How to interface with AutoCAD from Python? - Autodesk Community - AutoCAD](https://forums.autodesk.com/t5/visual-lisp-autolisp-and-general/how-to-interface-with-autocad-from-python/td-p/9760099)
+* [python autocad api book - Google Search](https://www.google.com/search?sca_esv=a9b95fc3d4d04a29&sxsrf=ADLYWIImhY2Ey0EN2ud9-vZnnhLjfbko2g:1730650827753&q=python+autocad+api+book&udm=2&fbs=AEQNm0CvspUPonaF8UH5s_LBD3JPX4RSeMPt9v8oIaeGMh2T2D1DyqhnuPxLgMgOaYPYX7PcfsxfOhjm3gtwLSfaSetPIhomV_8lCahszWiLh1qQfW1RIyX7bR_rJ1GI-RLYYianXDYhynzKuXMiMcEV64oDjxVjX5huDVGbL-5D4f-OKft5b9GGrW52Zlg_JSvNPxnEXx8cVRW0e7HP30-XbJKPzkQd1Q&sa=X&ved=2ahUKEwjo5MXeyMCJAxV6WUEAHUHXOXgQtKgLegQIEhAB&biw=1383&bih=729&dpr=2.5)
+   * [Help | Python API Overview | Autodesk](https://help.autodesk.com/view/SGDEV/ENU/?guid=SGD_py_python_api_overview_html)
+   * [Setting Up Your Environment with the Python API - YouTube](https://www.youtube.com/watch?v=RYEBQDJiXAs) talks about websockets!
+      * [websocket server - Google Search](https://www.google.com/search?q=websocket+server&oq=websocket+server&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDI5NTZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8)
+      * [Writing WebSocket servers - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API/Writing_WebSocket_servers)
+      * [websocket server freecodecamp - Google Search](https://www.google.com/search?q=websocket+server+freecodecamp&oq=websocket+server+freecodecamp&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDQ3MTRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8)
+      * [A Beginner's Guide to WebSockets](https://www.freecodecamp.org/news/beginners-guide-to-websockets/)
+      * [websocket server freecodecamp course - Google Search](https://www.google.com/search?q=websocket+server+freecodecamp+course&sca_esv=9410d93472b8daa3&sxsrf=ADLYWILin9dGCxkCT8_JTVF5ijwFHrJkJQ:1730651840211&ei=wKYnZ9S8DNephbIP6v2MoA0&start=10&sa=N&sstk=Aagrsug_or5U0qnYOmhUqoinv6LVNF56zoGkQ4IFXk8H0apZyh9BS4RtRT6P1x2f3LJSiUEUT9SUlRdJ0LipzMdXwqq4bBoQy3lyHQ&ved=2ahUKEwjUnKnBzMCJAxXXVEEAHeo-A9QQ8NMDegQIChAW&biw=1383&bih=729&dpr=2.5)
+
+* [More Fun with Python and pyautocad](https://blog.cadalyst.com/cadmanagement/more-fun-with-python)
+* [More Fun with AutoLISP](https://blog.cadalyst.com/cadmanagement/more-fun-with-autolisp)
+* [More Fun with Python and pyautocad](https://blog.cadalyst.com/cadmanagement/more-fun-with-python)
+* [Combining Python and .NET](https://blog.cadalyst.com/cadmanagement/combining-python-and-.net)
+
+
+
+
 ## FreeCAD
 * [FreeCAD API - FreeCAD Documentation](https://wiki.freecad.org/FreeCAD_API)
 
