@@ -26,6 +26,21 @@ A listing of 3d packages with Python APIs
 * [Rhino3dm - Google Search](https://www.google.com/search?q=Rhino3dm&rlz=1C1GCEB_enGB1045GB1045&sourceid=chrome&ie=UTF-8)
   * [Rhino - rhino3dm Libraries](https://www.rhino3d.com/features/developer/rhino3dm/)
 
+### Rhino Calls: Ufff what a mess!...
+* [Rhino - Calling Compute with Python](https://developer.rhino3d.com/guides/compute/compute-python-getting-started/)
+* [Getting Started with compute.rhino3d for Python - YouTube](https://www.youtube.com/watch?v=XCkRXAEJMhg)
+* [Rhino - What's New and Update Guide](https://developer.rhino3d.com/guides/opennurbs/migration-guide/)
+* [Rhino - Compute Guides](https://developer.rhino3d.com/guides/compute/)
+
+* [New Tab](chrome://newtab/)
+* [opennurbs in python - Google Search](https://www.google.com/search?q=opennurbs+in+python&sca_esv=a0b6cc145a6c8085&sxsrf=ADLYWIKqiPWx8pjePUKYEZZwr4HvJ93ahA%3A1730942464069&ei=ABYsZ4b9A4CihbIPuMzzyQQ&ved=0ahUKEwiG_cmVh8mJAxUAUUEAHTjmPEkQ4dUDCA8&uact=5&oq=opennurbs+in+python&gs_lp=Egxnd3Mtd2l6LXNlcnAiE29wZW5udXJicyBpbiBweXRob24yBBAjGCcyCBAAGIAEGKIEMggQABiiBBiJBTIIEAAYgAQYogQyCBAAGIAEGKIESJADUIQBWIQBcAF4AZABAJgBUaABUaoBATG4AQPIAQD4AQGYAgKgAl3CAgoQABiwAxjWBBhHmAMAiAYBkAYIkgcBMqAHpAQ&sclient=gws-wiz-serp)
+  * [Anyone have python equivalent code to the opennurbs example_read example code - Rhino Developer / rhino3dm - McNeel Forum](https://discourse.mcneel.com/t/anyone-have-python-equivalent-code-to-the-opennurbs-example-read-example-code/96452)
+  * [rhino3dm/docs/python/RHINO3DM-BUILD.PY.md at main · mcneel/rhino3dm](https://github.com/mcneel/rhino3dm/blob/main/docs/python/RHINO3DM-BUILD.PY.md)
+
+* Final thoughts: this needs one to register a machine license to get the working API keys. This is complicated, and not straighforward.
+* Forget it. 20:08 11/11/2024.
+* Develop a custom tooling instead.
+
 ### Rhino 8 Python
 * [Rhino 8 Feature: ScriptEditor (CPython, CSharp) - Serengeti (Rhino WIP) - McNeel Forum](https://discourse.mcneel.com/t/rhino-8-feature-scripteditor-cpython-csharp/128353/89)
 * [Rhino 8 WIP Python Not Installing - 2021-11-16 - YouTube](https://www.youtube.com/watch?v=heQiC1WmqKo)
