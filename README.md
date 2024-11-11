@@ -115,6 +115,10 @@ A listing of 3d packages with Python APIs
   * [python - Using NumPy in Blender Add-ons Without Requiring External Installation - Blender Stack Exchange](https://blender.stackexchange.com/questions/314296/using-numpy-in-blender-add-ons-without-requiring-external-installation)
   * [j20232/bnp: 🐣 bnp: Blender numpy utilities https://bnp.readthedocs.io/](https://github.com/j20232/bnp)
   * [NumPy 1.9.1 Release Notes — NumPy v2.2.dev0 Manual](https://numpy.org/devdocs/release/1.9.1-notes.html)
+ 
+ * an AI integration tutorial: Image to 3d inside Blender! (Cool!)
+ * [3D Python Tutorial: Building 3D Models from 2D Images (Photo or AI) with 5 Libraries - YouTube](https://www.youtube.com/watch?v=5ypQIUbpA7c)
+
 
 
 ## AutoCAD
