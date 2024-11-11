@@ -192,3 +192,11 @@ A listing of 3d packages with Python APIs
 
 ## CATIA
 
+
+## Native Setups
+* [portable python - Google Search](https://www.google.com/search?q=portable+python+&sca_esv=62ffb42049f4a414&sxsrf=ADLYWIIBAxlsvhnFCXjTUo-0MGRqrCwoUg%3A1731112103957&ei=p6wuZ-WHOq-7hbIPldGd-Qs&ved=0ahUKEwil95aQ_82JAxWvXUEAHZVoJ78Q4dUDCA8&uact=5&oq=portable+python+&gs_lp=Egxnd3Mtd2l6LXNlcnAiEHBvcnRhYmxlIHB5dGhvbiAyBBAjGCcyCxAAGIAEGJECGIoFMgsQABiABBiRAhiKBTILEAAYgAQYkQIYigUyCxAAGIAEGJECGIoFMgsQABiABBiRAhiKBTIFEAAYgAQyChAAGIAEGBQYhwIyBRAAGIAEMgUQABiABEjKDVC5BljNCXABeACQAQCYAVagAeMBqgEBM7gBA8gBAPgBAZgCBKAC9gHCAgkQABiwAxgIGB7CAg4QABiABBiwAxiGAxiKBcICCxAAGLADGKIEGIkFwgILEAAYgAQYsAMYogTCAgYQABgWGB6YAwCIBgGQBgmSBwE0oAfeFA&sclient=gws-wiz-serp)
+  * [WinPython](https://winpython.github.io/)
+  * [Release WinPython 2024-03 final of June 22nd 2024 (same as rc) · winpython/winpython](https://github.com/winpython/winpython/releases/tag/8.2.20240618final)
+  * [how to work with winpython - Google Search](https://www.google.com/search?q=how+to+work+with+winpython&oq=how+to+work+with+winpython&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTE4MjA5ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8)
+  * [From a quick glance, the first thing you'll need to do is install Python for you... | Hacker News](https://news.ycombinator.com/item?id=26260895)
+
