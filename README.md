@@ -177,6 +177,13 @@ A listing of 3d packages with Python APIs
   * [I used a Python script to automate Fusion 360 model variations and export over 200 files for 3d printing : r/Fusion360](https://www.reddit.com/r/Fusion360/comments/10im8qk/i_used_a_python_script_to_automate_fusion_360/)
 * [fusion 360 api - Google Search](https://www.google.com/search?q=fusion+360+api&rlz=1C1GCEB_enGB1045GB1045&oq=fusion+360+api&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg80gEINDA0NWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8)
   * [Fusion Help | Get Circle and Arc Data from Edge API Sample | Autodesk](https://help.autodesk.com/view/fusion360/ENU/?guid=GUID-2aae1b64-fd3c-11e4-a1cb-f8b156d7cd97)
+* 
+* 
+* [is autodesk fusion api free - Google Search](https://www.google.com/search?q=is+autodesk+fusion+api+free&sca_esv=9410d93472b8daa3&sxsrf=ADLYWIK5KoFeWblNTYg1dIq4v0KbsWtbew%3A1730651917576&ei=DacnZ8zmIrPOhbIP2K2OiQE&ved=0ahUKEwiMoZvmzMCJAxUzZ0EAHdiWIxEQ4dUDCA8&uact=5&oq=is+autodesk+fusion+api+free&gs_lp=Egxnd3Mtd2l6LXNlcnAiG2lzIGF1dG9kZXNrIGZ1c2lvbiBhcGkgZnJlZTIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIESPUVUN4EWKoUcAJ4AZABAJgBeqABoweqAQM2LjS4AQPIAQD4AQGYAgqgAuAFwgIKEAAYsAMY1gQYR8ICBxAjGLACGCfCAggQABgIGA0YHsICCxAAGIAEGIYDGIoFwgIKECEYoAEYwwQYCsICCBAhGKABGMMEmAMAiAYBkAYIkgcDOC4yoAe_KQ&sclient=gws-wiz-serp)
+* [Autodesk Fusion API | Autodesk Platform Services (APS)](https://aps.autodesk.com/developer/overview/autodesk-fusion-api)
+* [Compare Autodesk Fusion vs Autodesk Fusion for Personal Use | Autodesk](https://www.autodesk.com/products/fusion-360/personal)
+
+
 
 ## Revit
 * [revit loves python - Google Search](https://www.google.com/search?q=revit+loves+python&sca_esv=dcbcef83952848e4&rlz=1C1GCEB_enGB1045GB1045&sxsrf=ADLYWIJpOttrTEF524XZR9oYNvVjgwjT-Q:1729712734080&ei=XlIZZ4TCBLS_hbIPteWcsAE&start=10&sa=N&sstk=AagrsugI6wJSllI53DVy8QGpsPo5LTTsaLHH91jyZ7Jf61IiEK6X7APhDmcbPme3AryB5aFR9Y-oVLo_mQ_f8kcnTv8tjROJeebqKA&ved=2ahUKEwiE6c-IoqWJAxW0X0EAHbUyBxYQ8NMDegQIBhAW&biw=1537&bih=830&dpr=2.25)
@@ -187,6 +194,35 @@ A listing of 3d packages with Python APIs
  * [add in - How to create Revit Add-In DLL from Python - Stack Overflow](https://stackoverflow.com/questions/21151299/how-to-create-revit-add-in-dll-from-python)
 
 ## Onshape
+
+* [onshape api python - Google Search](https://www.google.com/search?q=onshape+api+python&oq=onshape+api+python&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDMxODVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8)
+* _A Python API being developed for Onshape access_
+* [kyle-tennison/onpy: A Python API for building OnShape models](https://github.com/kyle-tennison/onpy?tab=readme-ov-file)
+* [File not found](https://github.com/kyle-tennison/onpy/blob/main/examples/cylinder.py)
+* _A post by OnShape talking about it's REST API access and also providing links to some snippets and a Google Colab from Onshape folks..._ 
+* [Python Notebooks API Playground — Onshape](https://forum.onshape.com/discussion/16234/python-notebooks-api-playground)
+* [PTC-Education/PTC-API-Playground](https://github.com/PTC-Education/PTC-API-Playground)
+* [Onshape API Snippets.ipynb - Colab](https://colab.research.google.com/github/PTC-Education/PTC-API-Playground/blob/main/Onshape_API_Snippets.ipynb)
+* _Some lookups on REST API formally_
+* [rest api course - Google Search](https://www.google.com/search?q=rest+api+course&sca_esv=9410d93472b8daa3&sxsrf=ADLYWIJQwI5pfTmkJpUlYDEaZn1_ZQoLAQ%3A1730651991355&ei=V6cnZ7OmFaeohbIPrq2ViQY&ved=0ahUKEwjzrbKJzcCJAxUnVEEAHa5WJWEQ4dUDCA8&uact=5&oq=rest+api+course&gs_lp=Egxnd3Mtd2l6LXNlcnAiD3Jlc3QgYXBpIGNvdXJzZTIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzITEC4YgAQYsAMY0QMYQxjHARiKBTINEAAYgAQYsAMYQxiKBUj8C1BKWJ8LcAV4AZABAJgBZ6ABuwGqAQMxLjG4AQPIAQD4AQGYAgegAtwBwgIKECMYgAQYJxiKBcICBRAAGIAEwgIKEAAYgAQYQxiKBcICBhAAGBYYHpgDAOIDBRIBMSBAiAYBkAYKkgcDNi4xoAfCDw&sclient=gws-wiz-serp)
+* [REST Course: The Fundamentals | Pluralsight](https://www.pluralsight.com/courses/rest-fundamental?clickid=Cj0KCQjwvpy5BhDTARIsAHSilymqoYI1jn3249YGtYXomXo8oTL7Hvm5fDsNPWqqgr5VZcA6uQJl-vcaAj_fEALw_wcB&utm_source=google&utm_medium=paid-search&utm_campaign=upskilling-and-reskilling&utm_term=ssi-emea-dynamic&utm_content=free-trial&gad_source=1&gclid=Cj0KCQjwvpy5BhDTARIsAHSilymqoYI1jn3249YGtYXomXo8oTL7Hvm5fDsNPWqqgr5VZcA6uQJl-vcaAj_fEALw_wcB)
+* [REST API Crash Course - Introduction + Full Python API Tutorial - YouTube](https://www.youtube.com/watch?v=qbLc5a9jdXo)
+* [Best Course to Learn to Use Rest APIs. : r/learnpython](https://www.reddit.com/r/learnpython/comments/196qw7v/best_course_to_learn_to_use_rest_apis/)
+* [Struggling with APIs : r/learnpython](https://www.reddit.com/r/learnpython/comments/18ufase/comment/kfk5454/)
+* **_Onshape got acquired!!??? Lol._**
+* [onshape ptc? - Google Search](https://www.google.com/search?q=onshape+ptc%3F&oq=onshape+ptc%3F&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDM2MDRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8)
+* [onshape ptc kernel - Google Search](https://www.google.com/search?q=onshape+ptc+kernel&sca_esv=3510582108ce3b0c&sxsrf=ADLYWIKheGX2yn7EiwjNpEAob-LJEIZwRw:1731356311096&ei=l2YyZ67PBci8hbIPy4rLiAM&start=30&sa=N&sstk=ATObxK75VNXQi_IijvhmWFU9VkWKwTp22bZcvl2uXODQjcrfp2rh5mCjClQVZzAHtN4hJFwMZM31CsFi0itLJ1pCwreeTi4oxOb_IQJZlluvoSok6Vgbl54SzVqhgOVVgk6bpmhmkDLXMfjo9dF4m_DdEc9X4LR67YM&ved=2ahUKEwju9pvvjNWJAxVIXkEAHUvFEjE4FBDw0wN6BAgGEBc&biw=1383&bih=729&dpr=2.5)
+* [(1) New Messages!](https://www.ptc.com/en/news/2019/ptc-to-acquire-leading-saas-product-development-platform-provider-onshape)
+* [PTC Completes Acquisition of Onshape | PTC](https://www.ptc.com/en/news/2019/ptc-completes-acquisition-onshape)
+* [I mean… Onshape, Creo, and Solidworks use the same kernel so it’s not too surpri... | Hacker News](https://news.ycombinator.com/item?id=40431737)
+* [(1) New Messages!](https://www.ptc.com/en/news/2019/ptc-to-acquire-leading-saas-product-development-platform-provider-onshape)
+* [What is Onshape?](https://www.onshape.com/en/resource-center/videos/what-is-onshape)
+* [3D Parametric CAD Software vs. Onshape](https://www.onshape.com/en/blog/3d-parametric-cad-software-vs-onshape-expert-guide)
+* [Student Explores Integrating CAD with AI - Onshape](https://www.onshape.com/en/blog/cad-integration-ai-featurescript-api)
+* [Parametric Modeling with CAD - Onshape](https://www.onshape.com/en/blog/how-onshape-has-fundamentally-improved-parametric-cad)
+* [Your opinion about Onshape - PTC Community](https://community.ptc.com/t5/Creo-Modeling-Questions/Your-opinion-about-Onshape/td-p/395865)
+
+
 
 
 
