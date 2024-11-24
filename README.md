@@ -167,6 +167,15 @@ A listing of 3d packages with Python APIs
 * [More Fun with Python and pyautocad](https://blog.cadalyst.com/cadmanagement/more-fun-with-python)
 * [Combining Python and .NET](https://blog.cadalyst.com/cadmanagement/combining-python-and-.net)
 
+### Autocad as a Database
+* [autocad autolisp database - Google Search](https://www.google.com/search?q=autocad+autolisp+database&rlz=1C1CHBD_en-GBGB799GB799&oq=autocad+autolisp+database+&aqs=chrome..69i57.5141j0j7&sourceid=chrome&ie=UTF-8)
+  * [AutoCAD LT 2024 Help | About Using AutoLISP to Manipulate AutoCAD Objects (AutoLISP) | Autodesk](https://help.autodesk.com/view/ACDLT/2024/ENU/?guid=GUID-9AED35A1-5CB2-43D8-88ED-CBE95E54798D)
+  * [Into the Database | AfraLISP](https://www.afralisp.net/autolisp/tutorials/into-the-database.php)
+* [autocad as a database - Google Search](https://www.google.com/search?q=autocad+as+a+database&rlz=1C1CHBD_en-GBGB799GB799&oq=autocad+as+a+database&aqs=chrome..69i57.4720j0j7&sourceid=chrome&ie=UTF-8)
+  * [AutoCAD 2025 Developer and ObjectARX Help | AutoCAD Database Overview | Autodesk](https://help.autodesk.com/view/OARX/2025/ENU/?guid=GUID-4F4766EC-7BFC-456E-BE5B-7676B4658E15)
+  * [AutoCAD database? : r/AutoCAD](https://www.reddit.com/r/AutoCAD/comments/ul0tca/autocad_database/)
+  * [Beyond the Basics: Database Connectivity in AutoCAD 2017 WEBINAR | AutoCAD - YouTube](https://www.youtube.com/watch?v=hlN-7SfMRGo)
+* 01:54 24/11/2024
 
 
 
